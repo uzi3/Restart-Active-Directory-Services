@@ -1,0 +1,1 @@
+This script will restart the Active directory domain services and its dependent services, DNS server, intersite messaging, DFS replication and Kerberos key distribution key center services. The script will also check if any service has gone into hung state. If the service is in hung state, the script will take corrective actions.
